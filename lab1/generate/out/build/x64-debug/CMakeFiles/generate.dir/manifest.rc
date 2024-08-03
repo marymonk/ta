@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/inf/sem4/ta/generate/out/build/x64-debug/CMakeFiles/generate.dir/embed.manifest"
